@@ -1,4 +1,4 @@
-### Hi there 👋 I am a Computer Science Student at Northwestern University. I seek to continuously develop my experience in software development!
+### Hi there 👋 I am a Computer Science Undergrad at Northwestern University. I seek to continuously develop my experience in software development! Feel free to reach out at: jasonlu2025@u.northwestern.edu or check out my website: https://lujason.com
 
 <!--
 **Jasonxlu/Jasonxlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
