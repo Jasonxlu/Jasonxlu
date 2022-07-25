@@ -66,23 +66,23 @@ Here are some ideas to get you started:
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
         width="48"
         height="48"
         alt="Python"
       />
       <br /><strong>Python</strong>
     </td>
-    
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
         width="48"
         height="48"
-        alt="Bootstrap"
+        alt="C++"
       />
-      <br /><strong>Bootstrap</strong>
+      <br /><strong>C++</strong>
     </td>
+   
   </tr>
   <tr>
     <td align="center" height="108" width="108">
@@ -96,25 +96,13 @@ Here are some ideas to get you started:
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
         width="48"
         height="48"
-        alt="Express"
+        alt="Java"
       />
-      <br /><strong>Express</strong>
+      <br /><strong>Java</strong>
     </td>
-    <!--
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-        width="48"
-        height="48"
-        alt="MongoDB"
-      />
-      <br /><strong>MongoDB</strong>
-    </td>
-    --->
- 
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
@@ -150,6 +138,15 @@ Here are some ideas to get you started:
         alt="Jest"
       />
       <br /><strong>Jest</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"
+        width="48"
+        height="48"
+        alt="Matlab"
+      />
+      <br /><strong>MATLAB</strong>
     </td>
   </tr>
 </table>
