@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 📈 Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasonxlu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=jasonxlu&&theme=react&&hide_border=true"
+/>
