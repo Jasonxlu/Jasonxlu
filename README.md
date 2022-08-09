@@ -160,4 +160,4 @@ Here are some ideas to get you started:
   src="https://github-readme-streak-stats.herokuapp.com/?user=jasonxlu&&theme=react&&hide_border=true"
 />
 
-[![jasonlu2025's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=jasonlu2025&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+<!-- [![jasonlu2025's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=jasonlu2025&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats) -->
