@@ -19,13 +19,15 @@ Here are some ideas to get you started:
 
 # 📈 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasonxlu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![jasonxlu's Stats](https://github-readme-stats.vercel.app/api?username=jasonxlu&theme=react&show_icons=true&hide_border=true&count_private=true)
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=jasonxlu&&theme=react&&hide_border=true"
 />
 
 <!-- [![jasonlu2025's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=jasonlu2025&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats) -->
+
+![jasonxlu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonxlu&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 # 🔧 Technologies & Tools
 
