@@ -1,5 +1,5 @@
-# 👋 Hey! 
-I study computer science @ Northwestern University. Feel free to reach out!
+<!-- # 👋 Hey! 
+I study computer science @ Northwestern University. Feel free to reach out! -->
 
 <!--
 **Jasonxlu/Jasonxlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
