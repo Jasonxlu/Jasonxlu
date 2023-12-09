@@ -1,5 +1,5 @@
 # 👋 Hey! 
-I study computer science @ Northwestern University. Feel free to reach out at: jasonxlu.dev@gmail.com or check out my website: https://lujason.com
+I study computer science @ Northwestern University. Feel free to reach out!
 
 <!--
 **Jasonxlu/Jasonxlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 📈 Stats
+<!-- # 📈 Stats -->
 
 <!-- ![jasonxlu's Stats](https://github-readme-stats.vercel.app/api?username=jasonxlu&theme=react&show_icons=true&hide_border=true&count_private=true) -->
 
