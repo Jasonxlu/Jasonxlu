@@ -1,5 +1,5 @@
 # 👋 Hey! 
-I am a computer science undergrad at Northwestern University. I seek to continuously develop my experience in software development! Feel free to reach out at: jasonlu@u.northwestern.edu or check out my website: https://lujason.com
+I am a computer science undergrad at Northwestern University. Feel free to reach out at: jasonxlu.dev@gmail.com or check out my website: https://lujason.com
 
 <!--
 **Jasonxlu/Jasonxlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
