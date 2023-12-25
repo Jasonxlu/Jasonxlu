@@ -24,9 +24,15 @@ jobs:
           retries_delay_output_action: 120
           extras_css: |
             svg {
-              color: red;
+              color: white;
             }
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_people: yes
+          plugin_people_types: followers, contributors
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
