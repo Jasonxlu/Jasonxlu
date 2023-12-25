@@ -36,4 +36,5 @@ jobs:
           plugin_people: yes
           plugin_people_types: followers, contributors
           plugin_leetcode: yes
+          plugin_leetcode_user: "jasonlu2025"
           plugin_leetcode_sections: solved, skills, recent
