@@ -18,6 +18,14 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: US/Central
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          extras_css: |
+            svg {
+              color: red;
+            }
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 0
