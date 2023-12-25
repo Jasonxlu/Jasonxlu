@@ -26,7 +26,7 @@ jobs:
           extras_css: |
             svg {
               color: white;
-              font-size: 16;
+              font-size: 18;
             }
           base: repositories
           plugin_lines: yes
