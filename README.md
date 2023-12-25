@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 <!-- # 📈 Stats -->
 
-<!-- ![jasonxlu's Stats](https://github-readme-stats.vercel.app/api?username=jasonxlu&theme=react&show_icons=true&hide_border=true&count_private=true) -->
+<!-- ![jasonxlu's Stats](https://github-readme-stats.vercel.app/api?username=jasonxlu&theme=react&show_icons=true&hide_border=true&count_private=true) 
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=jasonxlu&&theme=react&&hide_border=true"
-/>
+/> -->
 
 ![Metrics](/github-metrics.svg)
 
