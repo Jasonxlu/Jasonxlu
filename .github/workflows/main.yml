@@ -25,6 +25,7 @@ jobs:
           extras_css: |
             svg {
               color: white;
+              font-size: 16;
             }
           plugin_activity: yes
           plugin_activity_limit: 5
