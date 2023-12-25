@@ -26,17 +26,7 @@ jobs:
           extras_css: |
             svg {
               color: white;
-              font-size: 22px;
-            }
-            h1 {
-              font-size: 24px;
-              font-weight: bold;
-            }
-            h2 {
-              font-size: 24px;
-            }
-            h3 {
-              font-size: 24px;
+              font-size: 18px;
             }
           base: ""
           plugin_habits: yes
