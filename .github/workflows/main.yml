@@ -18,6 +18,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: US/Central
+          base: header, activity, community, metadata
           retries: 3
           retries_delay: 300
           retries_output_action: 5
