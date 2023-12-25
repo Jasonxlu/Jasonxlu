@@ -28,6 +28,10 @@ jobs:
               color: white;
               font-size: 18px;
             }
+            h1, h2, h3 {
+              font-size: 18px;
+              font-weight: normal;
+            }
           base: ""
           plugin_habits: yes
           plugin_habits_facts: yes
