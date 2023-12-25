@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   src="https://github-readme-streak-stats.herokuapp.com/?user=jasonxlu&&theme=react&&hide_border=true"
 />
 
+![Metrics](/github-metrics.svg)
+
 <!--
 # 📌 Repos
 
