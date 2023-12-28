@@ -27,6 +27,7 @@ jobs:
               color: white;
               font-size: 16px;
             }
+          base: ""
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 0
