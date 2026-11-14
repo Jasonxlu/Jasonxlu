@@ -1,7 +1,7 @@
 name: Achievements
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  # Schedule daily updates - set to impossible date
+  schedule: [{cron: "0 0 31 2 *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
